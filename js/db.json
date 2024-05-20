@@ -1,0 +1,10 @@
+{
+    "produtos": [
+        {
+            "nome": "Mulher Maravilha",
+            "preco": "25",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/352023/caneca_mulher_maravilha_1984_truth_love_e_justice_stars_7989_1_20220222140258.jpg",
+            "id": 1
+        }
+    ]
+}
